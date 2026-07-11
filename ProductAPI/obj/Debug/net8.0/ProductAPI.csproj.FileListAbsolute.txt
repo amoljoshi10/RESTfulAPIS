@@ -83,10 +83,10 @@ C:\Users\Amol Joshi\source\repos\.Net\APIS\RESTfulPIS\ProductAPI\obj\Debug\net8.
 C:\Users\Amol Joshi\source\repos\.Net\APIS\RESTfulPIS\ProductAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\Amol Joshi\source\repos\.Net\APIS\RESTfulPIS\ProductAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Amol Joshi\source\repos\.Net\APIS\RESTfulPIS\ProductAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Amol Joshi\source\repos\.Net\APIS\RESTfulPIS\ProductAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Amol Joshi\source\repos\.Net\APIS\RESTfulPIS\ProductAPI\obj\Debug\net8.0\ProductAPI.csproj.Up2Date
 C:\Users\Amol Joshi\source\repos\.Net\APIS\RESTfulPIS\ProductAPI\obj\Debug\net8.0\ProductAPI.dll
 C:\Users\Amol Joshi\source\repos\.Net\APIS\RESTfulPIS\ProductAPI\obj\Debug\net8.0\refint\ProductAPI.dll
 C:\Users\Amol Joshi\source\repos\.Net\APIS\RESTfulPIS\ProductAPI\obj\Debug\net8.0\ProductAPI.pdb
 C:\Users\Amol Joshi\source\repos\.Net\APIS\RESTfulPIS\ProductAPI\obj\Debug\net8.0\ProductAPI.genruntimeconfig.cache
 C:\Users\Amol Joshi\source\repos\.Net\APIS\RESTfulPIS\ProductAPI\obj\Debug\net8.0\ref\ProductAPI.dll
+C:\Users\Amol Joshi\source\repos\.Net\APIS\RESTfulPIS\ProductAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

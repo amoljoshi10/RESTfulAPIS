@@ -7,6 +7,7 @@ using Moq;
 using DemoAPI.Interfaces;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
 
 namespace DemoAPI.Controllers.Tests
 {
@@ -53,6 +54,11 @@ namespace DemoAPI.Controllers.Tests
 
             mockProductService.Setup(p => p.GetProductById(1)).Returns(product);
             productController = new ProductsController(mockProductService.Object);
+            productController.ControllerContext = new ControllerContext
+            {
+                HttpContext = new DefaultHttpContext()
+            };
+            productController.HttpContext.Request.Headers["x-security-header"] = "securityHeader";
 
             var result = productController.GetById(1);
 

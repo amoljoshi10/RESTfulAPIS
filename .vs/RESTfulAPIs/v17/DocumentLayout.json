@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2FAA2623-AEE1-45E2-9D47-C4EAC32F3504}|ProductAPI\\ProductAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\apis\\restfulpis\\productapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAA2623-AEE1-45E2-9D47-C4EAC32F3504}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371A8FA5-5FA5-4FD3-A255-E60737AFE43B}|ProductAPITest\\ProductAPITest.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\apis\\restfulpis\\productapitest\\services\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371A8FA5-5FA5-4FD3-A255-E60737AFE43B}|ProductAPITest\\ProductAPITest.csproj|solutionrelative:productapitest\\services\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371A8FA5-5FA5-4FD3-A255-E60737AFE43B}|ProductAPITest\\ProductAPITest.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\apis\\restfulpis\\productapitest\\productapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{371A8FA5-5FA5-4FD3-A255-E60737AFE43B}|ProductAPITest\\ProductAPITest.csproj|solutionrelative:productapitest\\productapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A260CC7C-92BD-CFFC-8B15-72DE44B605A5}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\apis\\restfulpis\\customerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A260CC7C-92BD-CFFC-8B15-72DE44B605A5}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -47,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{371A8FA5-5FA5-4FD3-A255-E60737AFE43B}|ProductAPITest\\ProductAPITest.csproj|solutionrelative:productapitest\\productapitest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{371A8FA5-5FA5-4FD3-A255-E60737AFE43B}|ProductAPITest\\ProductAPITest.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\apis\\restfulpis\\productapitest\\productapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{371A8FA5-5FA5-4FD3-A255-E60737AFE43B}|ProductAPITest\\ProductAPITest.csproj|solutionrelative:productapitest\\productapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2FAA2623-AEE1-45E2-9D47-C4EAC32F3504}|ProductAPI\\ProductAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\apis\\restfulpis\\productapi\\productapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{2FAA2623-AEE1-45E2-9D47-C4EAC32F3504}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\productapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
@@ -70,11 +78,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPITest\\Services\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "ProductAPITest\\Services\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPITest\\Services\\ProductServiceTests.cs",
+              "RelativeToolTip": "ProductAPITest\\Services\\ProductServiceTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T17:48:21.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductAPI\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T17:48:03.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\CustomerAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CustomerAPI\\Properties\\launchSettings.json",
@@ -87,31 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ProductAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ProductAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-11T17:25:03.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\Startup.cs",
-              "RelativeDocumentMoniker": "ProductAPI\\Startup.cs",
-              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\Startup.cs",
-              "RelativeToolTip": "ProductAPI\\Startup.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T17:24:49.757Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\Program.cs",
               "RelativeDocumentMoniker": "ProductAPI\\Program.cs",
@@ -123,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\CustomerAPI\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "CustomerAPI\\Services\\CustomerService.cs",
@@ -135,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\CustomerAPI\\Program.cs",
               "RelativeDocumentMoniker": "CustomerAPI\\Program.cs",
@@ -147,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\CustomerAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "CustomerAPI\\appsettings.Development.json",
@@ -159,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\CustomerAPI\\appsettings.json",
               "RelativeDocumentMoniker": "CustomerAPI\\appsettings.json",
@@ -171,7 +181,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductAPITest.csproj",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPITest\\ProductAPITest.csproj",
+              "RelativeDocumentMoniker": "ProductAPITest\\ProductAPITest.csproj",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPITest\\ProductAPITest.csproj",
+              "RelativeToolTip": "ProductAPITest\\ProductAPITest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T17:17:04.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\Startup.cs",
+              "RelativeToolTip": "ProductAPI\\Startup.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T17:24:49.757Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-11T17:25:03.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\CustomerAPI\\Startup.cs",
               "RelativeDocumentMoniker": "CustomerAPI\\Startup.cs",
@@ -183,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\CustomerAPI\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "CustomerAPI\\Controllers\\CustomerController.cs",
@@ -195,19 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductAPITest.csproj",
-              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPITest\\ProductAPITest.csproj",
-              "RelativeDocumentMoniker": "ProductAPITest\\ProductAPITest.csproj",
-              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPITest\\ProductAPITest.csproj",
-              "RelativeToolTip": "ProductAPITest\\ProductAPITest.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-11T17:17:04.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ProductAPITest",
               "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPITest\\ProductAPITest.csproj",
               "RelativeDocumentMoniker": "ProductAPITest\\ProductAPITest.csproj",
@@ -218,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ProductAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\ProductAPI.csproj",
               "RelativeDocumentMoniker": "ProductAPI\\ProductAPI.csproj",
@@ -230,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ProductAPI",
               "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\ProductAPI.csproj",
               "RelativeDocumentMoniker": "ProductAPI\\ProductAPI.csproj",
@@ -241,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "CustomerAPI",
               "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\CustomerAPI\\CustomerAPI.csproj",
               "RelativeDocumentMoniker": "CustomerAPI\\CustomerAPI.csproj",
