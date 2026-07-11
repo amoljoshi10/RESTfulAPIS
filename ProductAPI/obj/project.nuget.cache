@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ohjR3otN8Ps=",
+  "dgSpecHash": "v15sxBD/9Qc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPI\\ProductAPI.csproj",
+  "projectFilePath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\ProductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amol Joshi\\.nuget\\packages\\azure.core\\1.17.0\\azure.core.1.17.0.nupkg.sha512",
     "C:\\Users\\Amol Joshi\\.nuget\\packages\\azure.identity\\1.4.1\\azure.identity.1.4.1.nupkg.sha512",
@@ -36,9 +36,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Azure.Identity' 1.4.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5mfx-4wcx-rv27",
-      "projectPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPI\\ProductAPI.csproj",
+      "projectPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\ProductAPI.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPI\\ProductAPI.csproj",
+      "filePath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\ProductAPI.csproj",
       "libraryId": "Azure.Identity",
       "targetGraphs": [
         "net8.0"
@@ -48,9 +48,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'Azure.Identity' 1.4.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
-      "projectPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPI\\ProductAPI.csproj",
+      "projectPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\ProductAPI.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPI\\ProductAPI.csproj",
+      "filePath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\ProductAPI.csproj",
       "libraryId": "Azure.Identity",
       "targetGraphs": [
         "net8.0"
@@ -60,9 +60,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'Azure.Identity' 1.4.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv",
-      "projectPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPI\\ProductAPI.csproj",
+      "projectPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\ProductAPI.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPI\\ProductAPI.csproj",
+      "filePath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\ProductAPI.csproj",
       "libraryId": "Azure.Identity",
       "targetGraphs": [
         "net8.0"

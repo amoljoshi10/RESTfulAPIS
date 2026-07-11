@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPITest\\ProductAPITest.csproj": {}
+    "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPITest\\ProductAPITest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPITest\\ProductAPITest.csproj": {
+    "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPITest\\ProductAPITest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPITest\\ProductAPITest.csproj",
+        "projectUniqueName": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPITest\\ProductAPITest.csproj",
         "projectName": "ProductAPITest",
-        "projectPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPITest\\ProductAPITest.csproj",
+        "projectPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPITest\\ProductAPITest.csproj",
         "packagesPath": "C:\\Users\\Amol Joshi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPITest\\obj\\",
+        "outputPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPITest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPI\\ProductAPI.csproj": {
-                "projectPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPI\\ProductAPI.csproj"
+              "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\ProductAPI.csproj": {
+                "projectPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\ProductAPI.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPI\\ProductAPI.csproj": {
+    "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPI\\ProductAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\ProductAPI.csproj",
         "projectName": "ProductAPI",
-        "projectPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPI\\ProductAPI.csproj",
+        "projectPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\ProductAPI.csproj",
         "packagesPath": "C:\\Users\\Amol Joshi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPI\\obj\\",
+        "outputPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EX7Lm6nx9Ng=",
+  "dgSpecHash": "YB1nKzUJZ6Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulAPIS\\ProductAPITest\\ProductAPITest.csproj",
+  "projectFilePath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\APIS\\RESTfulPIS\\ProductAPITest\\ProductAPITest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amol Joshi\\.nuget\\packages\\azure.core\\1.17.0\\azure.core.1.17.0.nupkg.sha512",
     "C:\\Users\\Amol Joshi\\.nuget\\packages\\azure.identity\\1.4.1\\azure.identity.1.4.1.nupkg.sha512",
