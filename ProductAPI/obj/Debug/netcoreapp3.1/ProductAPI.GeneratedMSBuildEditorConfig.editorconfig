@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = ProductAPI
+build_property.ProjectDir = C:\Users\Amol Joshi\source\repos\.Net\APIS\RESTfulAPIS\ProductAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
